@@ -16,5 +16,6 @@ _db_user = "2ndYearBaka"
 # Passwords for server super user and for DB are the same for simplicity
 _db_password = "verygoodpassword"
 _db_name = "TaxiRentingServiceDB"
+#_db_name = "test"
 _local_port = 3334
 _remote_port = 3306
